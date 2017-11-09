@@ -1,7 +1,7 @@
 let accessToken;
 let expiresIn;
 const clientID = '48ca9279ba62420d803ad66f5b60be94';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://jammmming.surge.sh';
 const apiURL = 'https://api.spotify.com/v1';
 
 const Spotify = {
